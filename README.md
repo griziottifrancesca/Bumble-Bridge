@@ -1,5 +1,5 @@
-# Bumble-Bridge
-# 🐝 Bumble Bridge
+
+# Bumble Bridge
 
 **Real-time audio translation for cross-border SME meetings, built into Zoom and Microsoft Teams.**
 
